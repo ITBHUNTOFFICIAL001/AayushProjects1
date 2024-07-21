@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Little_Lemon">Little Lemon</string>
+    <string name="signup">Sign Up</string>
+    <string name="new_account">Donot have account</string>
+    <string name="descriptionone">We are family owned recipes served with a modern twist </string>
+</resources>
